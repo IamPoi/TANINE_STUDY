@@ -5,7 +5,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 
 public class FileEx01 {
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws IOException { 
 		
 		// 파일 사이즈
 		File f = new File("a.txt");
